@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://casaderepousoadonai.com.br/sitemap.xml
